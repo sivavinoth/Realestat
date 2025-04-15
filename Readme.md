@@ -25,13 +25,12 @@ This project is a static website designed to showcase properties effectively, de
 Feel free to explore and contribute to this project!
 ## Application Icons
 
-![Application Icon](assets/icons/app_icon.svg)
+![Application Icon](./result/image.png)
 
-![Application Icon](assets/icons/app_icon.svg)
+![Application Icon](./result/second.png)
 
-![Application Icon](assets/icons/app_icon.svg)
+![Application Icon](./result/third.png)
 
-## Result Images
+![Application Icon](./result/fourth.png)
 
-![Result Image](assets/images/img.png)
 
