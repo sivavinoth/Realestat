@@ -29,7 +29,7 @@ Feel free to explore and contribute to this project!
 
 ![Application Icon](./result/second.png)
 
-![Application Icon](./result/third.png)
+![Application Icon](./third.png)
 
 ![Application Icon](./result/fourth.png)
 
